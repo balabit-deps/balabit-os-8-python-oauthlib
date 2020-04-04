@@ -1,0 +1,6 @@
+Tests: python3-oauthlib
+Depends:
+ python3-all,
+ python3-mock,
+ python3-pytest (>= 4.0),
+ python3-oauthlib
